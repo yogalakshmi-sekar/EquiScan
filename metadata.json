@@ -1,0 +1,5 @@
+{
+  "name": "EquiScan: AI Cultural Bias Auditor",
+  "description": "A powerful resume auditing tool designed for India's diverse job market to detect and neutralize gendered, regional, and cultural biases, promoting fair hiring through counterfactual analysis and neutral rewrites.",
+  "requestFramePermissions": []
+}
